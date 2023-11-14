@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-size: cover;
+}
+
+canvas {
+    background-color: white;
+    margin-top: 200px;
+    border: 8px solid black;
+    border-radius: 50px;
+}
